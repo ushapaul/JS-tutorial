@@ -6,7 +6,7 @@
 //     console.log(num,"not a multiple of a 5");
 // }
 //ppractice Qs2
-let score = 75;
+let score = prompt("enter your score(0-100)") ;
 let grade;
 if(score >= 90 && score <= 100) {
     console.log("grade is A");
